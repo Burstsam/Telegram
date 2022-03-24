@@ -3,6 +3,8 @@
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Burstsam/Telegram/)
+
 ## Creating your Telegram Application
 
 We welcome all developers to use our API and source code to create applications on our platform.
